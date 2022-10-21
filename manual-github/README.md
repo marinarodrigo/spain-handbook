@@ -286,7 +286,7 @@ A la hora de revisar los cambios realizados por los miembros del equipo, los adm
 4. Para revisar las modificaciones realizadas en cada uno de los *commits*, se hará clic en la pestaña *Files changed*, junto a la cual debe haber un número que indicará la cantidad de cambios realizados. En esta página se pueden ver fragmentos del texto, con los elementos eliminados en color rojo y marcados por un signo - al principio de cada línea, así como los elementos añadidos en color verde y marcados por un signo + al principio de cada línea.
 ![revision-ficheros-cambiados](assets/revision-ficheros-cambiados.jpeg)
 
-5. El revisor podrá llevar un control de los *commits* revisados o vistos haciendo clic en cada uno de ellos, sobre la casilla *Viewed*. Arriba verá un marcador de la progresión en la revisión de los cambios.
+5. El revisor podrá llevar un control de los *commits* revisados o vistos haciendo clic en cada uno de ellos sobre la casilla *Viewed*. Arriba verás un marcador de la progresión en la revisión de los cambios.
 ![commits-vistos](assets/commits-vistos.jpeg)
 
 6. Una vez revisados los cambios, el administrador podrá llevar a cabo tres acciones, una vez haga clic en el botón *Review changes*:
@@ -297,14 +297,14 @@ A la hora de revisar los cambios realizados por los miembros del equipo, los adm
 
    En todos los casos se recomienda comentar para que le quede claro al colaborador en qué situación se encuentra su *pull request*.
 
-7. En ocasiones solo permitirá hacer un comentario, sobre todo si hay algún tipo de conflicto. En ese caso, se verán en gris las opciones *Approve* y *Request changes*. En ese caso, el administrador comentará y hará clic en el botón *Submit review* (Enviar revisión).
+7. En ocasiones solo permitirá hacer un comentario, sobre todo si hay algún tipo de conflicto. En ese caso, se verán en gris las opciones *Approve* y *Request changes*. El administrador comentará y hará clic en el botón *Submit review* (Enviar revisión).
 ![aprobacion-de-commits](assets/aprobacion-de-commits.jpeg)
 
 8. Finalmente, no olvidemos que el colaborador ha propuesto sus cambios desde su *Fork*, es decir, no está trabajando en el repositorio principal, sino desde el suyo propio. Esto se hace para evitar que haya problemas y que, si se producen choques, éstos se puedan detectar y gestionar sin problema.
 Lo normal, por tanto es que aparezca un mensaje de que es necesario **fusionar** (*merge*) las modificaciones solicitadas por el colaborador. El administrador se encargará de hacerlo, revisando antes cualquier posible conflicto que se produzca.
 ![merge-pull-request](assets/merge-pull-request.jpeg)
 
-   En ese caso habrá que hacer clic en el botón *Merge pull request*, siempre que los administradores hayan comprobado y estén completamente seguros de que no hay ningún tipo de conflicto.
+   En ese caso habrá que hacer clic en el botón *Merge pull request*, siempre que los administradores hayan comprobado y estén seguros de que no hay ningún tipo de conflicto.
 
 [Volver arriba](#top)
 
@@ -314,7 +314,7 @@ Lo normal, por tanto es que aparezca un mensaje de que es necesario **fusionar**
 Al tratarse de un trabajo colaborativo se necesita un alto grado de organización y coordinación. 
 GitHub nos permite crear *issues*, que son como tareas o acciones que deben realizarse.
 
-Para facilitar la organización, estas *issues* se agrupan por proyectos. Y con el propósito de mantener la coordinación entre los distintos colaboradores, las *issues* pueden asignarse a personas.
+Para facilitar la organización, estas *issues* se agrupan por proyectos. Con el propósito de mantener la coordinación entre los distintos colaboradores, las *issues* pueden asignarse a personas.
 
 [Volver arriba](#top)
 
@@ -336,7 +336,7 @@ Se abrirá una ventana, como la que se ve a continuación, con cuatro áreas se�
 
 Debemos introducir un título y un breve comentario al respecto, una vez hecho podemos pinchar en *Submit new issue* para guardarla.
 
-Adicionalmente, en el lateral derecho podemos personalizar algunas opciones como *Assignees*, para asignar la *issue* a una persona, *Labels*, para etiquetar/clasificar la *issue*, y finalmente *Projects* para asignar la *issue* al proyecto elegido. 
+Además, en el lateral derecho podemos personalizar algunas opciones como *Assignees* (para asignar la *issue* a una persona) *Labels* (para etiquetar/clasificar la *issue*) y *Projects* (para asignar la *issue* al proyecto elegido). 
 
 Para hacerlo pinchamos sobre la rueda correspondiente y se despliega una ventana con las opciones. Seleccionamos nuestra elección y pinchamos fuera del área para que la opción marcada quede guardada.
 
