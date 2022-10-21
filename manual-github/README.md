@@ -101,7 +101,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 #### <a name="paso3-1-1">3.1.1. Inserción de imágenes</a>
 
-Para insertar imágenes en el manual, éstas se subirán a la carpeta **assets** que se encuentra en la misma carpeta donde está el documento donde se va a insertar dicha imagen.
+Para insertar imágenes en el manual, estas se subirán a la carpeta **assets** que se encuentra en la misma carpeta donde está el documento donde se va a insertar dicha imagen.
 
 A continuación, se referenciará la imagen con el comando correspondiente de *Markdown*, como se muestra a continuación:
 
@@ -117,7 +117,7 @@ Lo más importante es que hay que subir la imagen a la carpeta **assets** que se
 
 ![Carpeta a la que hay que subir la imagen](assets/insertar-imagen-01.jpeg)
 
-A continuación, hay que hacer clic en el botón *Add file*, del que se desplegará un submenú. A continuación hay que hacer clic en el botón *Upload files*. De esta forma, aparecerá la página de subida de imágenes.
+A continuación, clica en el botón *Add file* y se desplegará un submenú. Después, clica en el botón *Upload files*. De esta forma, aparecerá la página de subida de imágenes.
 
 ![Botón subir imagen](assets/insertar-imagen-02.jpeg)
 
